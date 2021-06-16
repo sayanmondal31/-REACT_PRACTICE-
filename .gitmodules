@@ -1,0 +1,9 @@
+[submodule "react-practice"]
+	path = react-practice
+	url = https://github.com/sayanmondal31/react-practice
+[submodule "lifting-state-up-usestate"]
+	path = lifting-state-up-usestate
+	url = https://github.com/sayanmondal31/lifting-state-up-usestate
+[submodule "example-of-reducer-context-api-usestate"]
+	path = example-of-reducer-context-api-usestate
+	url = https://github.com/sayanmondal31/example-of-reducer-context-api-usestate
